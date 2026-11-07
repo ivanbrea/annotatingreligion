@@ -1,0 +1,98 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Annotating Religion: An Audiovisual Corpus of Ritual, Sound, and Spirituality in Golden Age Mexican Cinema",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrguyYeaLdFoLmIBuVYWAoGHXSvpdvy7-hh7r1RLIzZQ&s=10",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Golden Age of Mexican Cinema (approximately 1936-1956) represents one of the most significant periods in the history of Latin American film. During these two decades, the Mexican film industry experienced unprecedented levels of production, commercial success, and international recognition, at times rivaling Hollywood in terms of the popularity and quality of its productions. Films produced during this period not only entertained audiences but also played an instrumental role in shaping ideas about Mexican national identity, culture, and modernity. In the aftermath of the Mexican Revolution (1910-1920), the postrevolutionary Mexican state sought to consolidate a unified national identity among a population divided by regional, linguistic, racial, and cultural differences. Through state-supported cultural production, including cinema, filmmakers engaged with competing national ideologies such as indigenismo, mestizaje, and hispanismo, presenting particular visions of what it meant to be Mexican. Cinema consequently became more than a form of popular entertainment: it functioned as a space in which national identity, collective memory, and cultural belonging could be negotiated."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "One particularly important, yet comparatively understudied, dimension of Mexican cinema during this period is the representation of religion, specifically Roman Catholicism. Despite the Mexican state’s historically anticlerical policies and the constitutional separation of church and state, Catholicism remained deeply embedded in the cultural and everyday lives of the Mexican population. Religious imagery, devotional practices, sacred objects, church spaces, and representations of religious figures therefore provided filmmakers with a familiar visual and cultural vocabulary through which to engage their audiences. In films such as María Candelaria (1943), directed by Emilio Fernández, religious symbolism and the figure of the priest serve as important narrative and visual devices through which questions of morality, social exclusion, indigeneity, and national identity are explored. The film's portrayal of María Candelaria through associations with the Virgin of Guadalupe and Jesus Christ demonstrates how Catholic iconography could be used to construct an idealized image of Mexican identity."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This project, Annotating Religion: An Audiovisual Corpus of Ritual, Sound, and Spirituality in Golden Age Mexican Cinema, examines how religious experience is represented and mediated through the audiovisual language of Mexican cinema. Rather than approaching religion exclusively as a narrative theme, this project considers how cinematic elements such as sound, music, silence, camera movement, lighting, bodily gestures, ritual practices, and sacred spaces make religious experience perceptible to spectators. Through timestamped annotations of selected sequences from three films of the Golden Age, the project will investigate how prayer, religious speech, devotional imagery, bells, hymns, and other expressions of Catholic spirituality function within individual films and across the broader cinematic tradition. By bringing these elements together in a searchable audiovisual corpus, this project seeks to illuminate the relationship between religion, spectatorship, and Mexican cultural nationalism while demonstrating how digital audiovisual annotation can generate new approaches to the study of film, religion, and cultural identity.\n\n"
+        }
+      ]
+    }
+  ],
+  "title": "DRAFT INTRO",
+  "parent": "ae44e75c-4a2d-4ae4-8204-8ba9b631a1a3",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "draft-intro",
+  "created_at": "2026-11-07T01:08:32.754Z",
+  "created_by": "ivanbrea",
+  "updated_at": "2026-11-07T01:08:32.754Z",
+  "updated_by": "ivanbrea"
+}
